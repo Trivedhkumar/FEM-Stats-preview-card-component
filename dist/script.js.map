@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":["console","log"],"mappings":"AAAA,aAAAA,QAAQC,IAAI,wCACZD,QAAQC,IAAI,SACZD,QAAQC,IAAI","file":"script.js","sourcesContent":["console.log(\"====================================\");\r\nconsole.log(\"HELLO\");\r\nconsole.log(\"====================================\");\r\n"]}
